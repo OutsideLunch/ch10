@@ -9,7 +9,7 @@ public class NullPointerExceptionMain {
 		
 //		try 영역은 오류가 발생할 가능성이 있는 실행 코드를 입력
 		try {
-			String data = null;
+			String data = "";
 			System.out.println(data.toString());
 		}
 //		catch 영역은 오류가 발생했을 경우 처리할 코드를 입력
